@@ -25,7 +25,6 @@ class Rectangle {
         System.out.println("Perimeter of the rectangle: " + perimeter);
     }
 }
-
 public class prog2 {
     public static void main(String[] args) {
         
